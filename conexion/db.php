@@ -10,7 +10,7 @@ Class DB {
     
     public function __construct() {
         $this->host = 'localhost';
-        $this->base_de_datos = 'academia_fleitas';
+        $this->base_de_datos = 'modulos_caja';
         $this->usuario = 'root';
         $this->pass = '';
         $this->charset = 'utf8mb4';  
